@@ -30,3 +30,5 @@ object camion {
 
    method cosaMasPesada() = cosasCargadas.max({c=>c.peso()})
 }
+
+/*preuba */
